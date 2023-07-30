@@ -1,4 +1,4 @@
-![Gameplay](url)
+![Gameplay](screencapture-localhost-3000-2023-07-30-10_45_15.png)
 
 
 # Getting Started with Create React App
